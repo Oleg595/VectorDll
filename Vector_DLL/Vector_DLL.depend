@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1617443398 source:d:\visual studio 2008\vector_dll\src\mylogger.cpp
+	"../include/ILogger.h"
+	<fstream>
+
+1615637970 d:\visual studio 2008\vector_dll\include\ilogger.h
+	<string>
+	<iostream>
+	<ostream>
+	<fstream>
+	"RC.h"
+
+1615587854 d:\visual studio 2008\vector_dll\include\rc.h
+
+1620727281 source:d:\visual studio 2008\vector_dll\src\vectorimpl.cpp
+	<cstring>
+	<memory>
+	<cmath>
+	"../include/IVector.h"
+	"../include/ILogger.h"
+
+1621072314 d:\visual studio 2008\vector_dll\include\ivector.h
+	<cstddef>
+	<functional>
+	"RC.h"
+	"ILogger.h"
+	"Interfacedllexport.h"
+
+1619167174 d:\visual studio 2008\vector_dll\include\interfacedllexport.h
+

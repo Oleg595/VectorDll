@@ -1,0 +1,14 @@
+EXPORTS
+    _ZN7IVector12copyInstanceEPS_RKPKS_ @1
+    _ZN7IVector12createVectorEjRKPKd @2
+    _ZN7IVector12moveInstanceEPS_RS0_ @3
+    _ZN7IVector3addERKPKS_S3_ @4
+    _ZN7IVector3dotERKPKS_S3_ @5
+    _ZN7IVector3subERKPKS_S3_ @6
+    _ZN7IVector6equalsERKPKS_S3_NS_4NORMEd @7
+    _ZN7IVector9setLoggerEP7ILogger @8
+    _ZN7IVectorD0Ev @9
+    _ZN7IVectorD1Ev @10
+    _ZN7IVectorD2Ev @11
+    _ZTI7IVector @12 DATA
+    _ZTV7IVector @13 DATA
